@@ -59,3 +59,19 @@ Create an admin user directly in MongoDB:
 - Node.js
 - Bootstrap & Material-UI
 - JWT Authentication
+
+
+## Contributors
+
+### Team Details
+
+- __Team ID:__ LTVIP2026TMIDS66143
+-__Team Size:__ 4
+-__Team Leader:__ Perabathula Sujitha Naga Sesha Lakshmi
+-__Team member:__ Shaik Abdul Afroz Basha
+-__Team member:__ Kota Leela Gayathri Sanutha
+-__Team member:__ Yasam Harsha Vardhan
+
+## Demo video
+
+-__URL:__ https://drive.google.com/file/d/1cPeOXpeGYzJyh25fuNSbLrBEemJfOtsX/view?usp=sharing
